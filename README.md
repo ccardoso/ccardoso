@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer with 8+ years experience in application development. Heavy focus on Front End area engineering process for various projects and clients.<br><br>Team player attitude able to work in multicultural environment using agile methodologies.<br><br>Embrace best engineering practices, focusing on Continuous Delivery.
+Software engineer with 11+ years experience in application development. Heavy focus on Front End area engineering process for various projects and clients.<br><br>Team player attitude able to work in multicultural environment using agile methodologies.<br><br>Embrace best engineering practices, focusing on Continuous Delivery.
 
 
 ## 🌐 Socials:
